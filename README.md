@@ -76,6 +76,20 @@ AI 会先问你 2 件事：
 
 ---
 
+## 作品集（Examples）
+
+完整可预览的三个案例，覆盖 Mobile App / Web 官网 / AI 图生图三种场景：
+
+| 项目 | 类型 | 主题 | 预览 |
+|------|------|------|------|
+| **HydroFlow** | Mobile App | 薄荷绿运动水壶 | <img src="examples/preview/hydroflow.png" width="180" /> |
+| **PUFFY** | Mobile App | 奶油马卡龙潮玩盲盒 | <img src="examples/preview/puffy.png" width="180" /> |
+| **NOVA** | Web 官网 | 暗色科技新势力电车 | <img src="examples/preview/nova.png" width="360" /> |
+
+源码全部在 [`examples/`](./examples/) 目录，详见 [examples/README.md](./examples/README.md)。
+
+---
+
 ## 目录结构
 
 ```
